@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "quantumbot-core-965ae",
+    "test": "quantumbot-core-965ae"
+  }
+}
